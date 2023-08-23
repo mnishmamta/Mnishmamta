@@ -1,14 +1,8 @@
-xkchysa8
-gzphc
-yo
-rhh
-jxo
-jxpt6i
-dp
-### Hi there 👋
+
 
 <!--
 **mnishmamta/Mnishmamta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Uploading Screenshot_20230822_181948.jpg…]()
 
 Here are some ideas to get you started:
 
